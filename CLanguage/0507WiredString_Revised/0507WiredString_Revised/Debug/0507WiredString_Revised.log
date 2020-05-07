@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0507wiredstring_revised\0507wiredstring_revised\main.c(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0507WiredString_Revised.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0507WiredString_Revised\Debug\0507WiredString_Revised.exe
+  0507WiredString_Revised.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0507WiredString_Revised\Debug\0507WiredString_Revised.pdb (Partial PDB)

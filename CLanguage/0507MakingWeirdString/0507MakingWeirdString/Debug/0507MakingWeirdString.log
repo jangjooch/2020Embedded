@@ -1,0 +1,5 @@
+﻿  Main.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0507makingweirdstring\0507makingweirdstring\main.c(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0507makingweirdstring\0507makingweirdstring\main.c(43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0507MakingWeirdString.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0507MakingWeirdString\Debug\0507MakingWeirdString.exe
+  0507MakingWeirdString.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0507MakingWeirdString\Debug\0507MakingWeirdString.pdb (Partial PDB)
