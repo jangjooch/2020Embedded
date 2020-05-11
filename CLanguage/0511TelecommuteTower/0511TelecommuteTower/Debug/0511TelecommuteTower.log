@@ -1,0 +1,5 @@
+﻿  Main.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0511telecommutetower\0511telecommutetower\main.c(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0511telecommutetower\0511telecommutetower\main.c(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0511TelecommuteTower.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0511TelecommuteTower\Debug\0511TelecommuteTower.exe
+  0511TelecommuteTower.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0511TelecommuteTower\Debug\0511TelecommuteTower.pdb (Partial PDB)

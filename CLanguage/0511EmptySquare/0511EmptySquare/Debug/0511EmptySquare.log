@@ -1,0 +1,6 @@
+﻿  Main.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0511emptysquare\0511emptysquare\main.c(49): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+  c:\users\301-pc-21\desktop\soucrce\clanguage\0511emptysquare\0511emptysquare\main.c(49): note: 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  c:\users\301-pc-21\desktop\soucrce\clanguage\0511emptysquare\0511emptysquare\main.c(49): note: 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  0511EmptySquare.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0511EmptySquare\Debug\0511EmptySquare.exe
+  0511EmptySquare.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0511EmptySquare\Debug\0511EmptySquare.pdb (Partial PDB)

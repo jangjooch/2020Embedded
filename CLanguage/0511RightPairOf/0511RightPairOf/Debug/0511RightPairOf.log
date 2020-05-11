@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0511rightpairof\0511rightpairof\main.c(24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0511RightPairOf.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0511RightPairOf\Debug\0511RightPairOf.exe
+  0511RightPairOf.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0511RightPairOf\Debug\0511RightPairOf.pdb (Partial PDB)
