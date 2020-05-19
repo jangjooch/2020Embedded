@@ -9,8 +9,10 @@ unsigned long endTime;
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(3, INPUT);  
-  attachInterrupt(1, timeRecord, CHANGE);
+  //pinMode(3, INPUT);
+  //attachInterrupt(0, timeRecord, RISING);
+  attachInterrupt(0, timeRecordStart, RISING);
+  attachInterrupt(1, timeRecordEnd, FALLING);
   // input에 대한 interrupt 생성
   Timer1.initialize(1000);
   Timer1.attachInterrupt(getTime);
@@ -36,6 +38,14 @@ void timeRecord(){
     Serial.println(endTime - startTime);
   }
 }
+void timeRecordStart(){
+ startTime = countDown;
+}
+void timeRecordEnd(){
+  endTime = countDown;
+  Serial.println(endTime - startTime);
+}
+
 
 void getTime(){
   countDown++;
