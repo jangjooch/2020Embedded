@@ -1,0 +1,9 @@
+﻿  Main.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0603_ins_prices\0603_ins_prices\main.c(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0603_ins_prices\0603_ins_prices\main.c(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0603_ins_prices\0603_ins_prices\main.c(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0603_ins_prices\0603_ins_prices\main.c(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0603_ins_prices\0603_ins_prices\main.c(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0603_ins_prices\0603_ins_prices\main.c(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  0603_Ins_Prices.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0603_Ins_Prices\Debug\0603_Ins_Prices.exe
+  0603_Ins_Prices.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0603_Ins_Prices\Debug\0603_Ins_Prices.pdb (Partial PDB)
