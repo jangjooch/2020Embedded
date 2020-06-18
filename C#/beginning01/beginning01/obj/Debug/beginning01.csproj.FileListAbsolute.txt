@@ -1,0 +1,7 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\bin\Debug\beginning01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\bin\Debug\beginning01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\bin\Debug\beginning01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\obj\Debug\beginning01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\obj\Debug\beginning01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\obj\Debug\beginning01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning01\beginning01\obj\Debug\beginning01.pdb

@@ -1,0 +1,7 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\bin\Debug\beginning02_class.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\bin\Debug\beginning02_class.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\bin\Debug\beginning02_class.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\obj\Debug\beginning02_class.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\obj\Debug\beginning02_class.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\obj\Debug\beginning02_class.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0618\beginning02_class\beginning02_class\obj\Debug\beginning02_class.pdb
