@@ -1,0 +1,4 @@
+﻿  0625_Union_Structure.c
+c:\users\301-pc-21\desktop\soucrce\c#\0625\0625_union_structure\0625_union_structure\0625_union_structure.c(40): warning C4133: '=': 'Man *'과(와) 'unsigned char *' 사이의 형식이 호환되지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\c#\0625\0625_union_structure\0625_union_structure\0625_union_structure.c(67): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  0625_Union_Structure.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0625_Union_Structure\Debug\0625_Union_Structure.exe

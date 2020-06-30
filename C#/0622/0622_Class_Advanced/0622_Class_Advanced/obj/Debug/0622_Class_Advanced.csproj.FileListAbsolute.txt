@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\bin\Debug\0622_Class_Advanced.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\bin\Debug\0622_Class_Advanced.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\bin\Debug\0622_Class_Advanced.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\0622_Class_Advanced.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\_0622_Class_Advanced.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\_0622_Class_Advanced.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\0622_Class_Advanced.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\0622_Class_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\0622_Class_Advanced.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Class_Advanced\0622_Class_Advanced\obj\Debug\0622_Class_Advanced.pdb

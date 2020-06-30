@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\bin\Debug\0623_Winform_Interface01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\bin\Debug\0623_Winform_Interface01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\bin\Debug\0623_Winform_Interface01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\0623_Winform_Interface01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\_0623_Winform_Interface01.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\_0623_Winform_Interface01.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\0623_Winform_Interface01.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\0623_Winform_Interface01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\0623_Winform_Interface01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_Winform_Interface01\0623_Winform_Interface01\obj\Debug\0623_Winform_Interface01.pdb

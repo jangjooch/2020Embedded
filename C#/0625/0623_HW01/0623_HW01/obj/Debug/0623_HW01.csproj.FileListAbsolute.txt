@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\bin\Debug\0623_HW01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\bin\Debug\0623_HW01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\bin\Debug\0623_HW01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\0623_HW01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\_0623_HW01.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\_0623_HW01.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\0623_HW01.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\0623_HW01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\0623_HW01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0625\0623_HW01\0623_HW01\obj\Debug\0623_HW01.pdb

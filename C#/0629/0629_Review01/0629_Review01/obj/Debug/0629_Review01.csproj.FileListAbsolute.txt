@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\bin\Debug\0629_Review01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\bin\Debug\0629_Review01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\bin\Debug\0629_Review01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\0629_Review01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\_0629_Review01.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\_0629_Review01.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\0629_Review01.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\0629_Review01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\0629_Review01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0629\0629_Review01\0629_Review01\obj\Debug\0629_Review01.pdb

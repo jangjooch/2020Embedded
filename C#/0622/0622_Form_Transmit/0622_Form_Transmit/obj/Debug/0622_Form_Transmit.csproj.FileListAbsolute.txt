@@ -1,0 +1,11 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\bin\Debug\0622_Form_Transmit.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\bin\Debug\0622_Form_Transmit.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\bin\Debug\0622_Form_Transmit.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\0622_Form_Transmit.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\_0622_Form_Transmit.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\_0622_Form_Transmit.Form2.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\_0622_Form_Transmit.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\0622_Form_Transmit.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\0622_Form_Transmit.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\0622_Form_Transmit.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Form_Transmit\0622_Form_Transmit\obj\Debug\0622_Form_Transmit.pdb

@@ -1,0 +1,52 @@
+
+
+.mp3와 .wmv 파일의 실행이 가능하다
+
+24-bit DAC 출력기능이 있다.
+ -> 즉 실질적인 출력은 Analog값일 것이다.
+SD카드는 FAT형태로 포멧되어야 하고, 32GB이내의 크기여야 한다.
+3W이내의 amplifier의 사용이 가능하다
+볼륨은 30, EQ 조정은 10 레벨이 가능하다.
+
+UART Port
+ - 정규 serial
+ - TTL : 0 ~5V
+	- Atmega128A의 흰색부분의 UART 통신을 하면 된다.
+ - Baud Rate : 기본 9600
+
+작동 전압, 전류
+ - 3.2 ~ 5V
+ - 20mA
+
+핀정보
+ - RX - TX
+   TX - RX
+	- 4번 항목에 나와있다.
+
+Serial 통신 포멧
+패리티 없음
+데이터 stop : 1bit
+
+start 	: 0x7E
+Ver 	: 버전 정보
+Len 	: 패리티는 카운트 하지 않는다.
+CMD 	: 실질적인 명령어
+Feedback	: 그냥 0으로 설정해서 반응을 보지 않아도 된다.
+Para1	: 쿼리 high data byte
+Para2	: 쿼리 low data byte
+checknum	: 오류 검사 -> 16bit이기때문에
+전송시 H부터 보내고 L을 보낸다
+버전 길이 cmd param1 param2 -> 0 - (0xff +0x06+cmd + 0x02)
+end 	: 0xEF
+ex) 7E | FF | 06 | 09 | 00 | 00 04 | FF DD | EF
+실질적인 데이터는 FF 06 09 00 00 04
+
+TF카드 호출
+7E FF 06 3F 00 00 02 XX XX EF
+ - 로 첫번째를 시작하여 TF카드를 읽도록 명령한다.
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\bin\Debug\0624_chart_beginning.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\bin\Debug\0624_chart_beginning.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\bin\Debug\0624_chart_beginning.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\0624_chart_beginning.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\_0624_chart_beginning.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\_0624_chart_beginning.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\0624_chart_beginning.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\0624_chart_beginning.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\0624_chart_beginning.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_chart_beginning\0624_chart_beginning\obj\Debug\0624_chart_beginning.pdb

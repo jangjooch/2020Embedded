@@ -1,0 +1,13 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\bin\Debug\0622_HW_MemberSystem.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\bin\Debug\0622_HW_MemberSystem.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\bin\Debug\0622_HW_MemberSystem.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\0622_HW_MemberSystem.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\_0622_HW_MemberSystem.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\_0622_HW_MemberSystem.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\_0622_HW_MemberSystem.View.FormAdd.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\_0622_HW_MemberSystem.View.FormDelete.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\_0622_HW_MemberSystem.View.SearchForm.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\0622_HW_MemberSystem.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\0622_HW_MemberSystem.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\0622_HW_MemberSystem.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_HW_MemberSystem\0622_HW_MemberSystem\obj\Debug\0622_HW_MemberSystem.pdb

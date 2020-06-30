@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\bin\Debug\0624_HW_Serial_ADValue.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\bin\Debug\0624_HW_Serial_ADValue.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\bin\Debug\0624_HW_Serial_ADValue.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\0624_HW_Serial_ADValue.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\_0624_HW_Serial_ADValue.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\_0624_HW_Serial_ADValue.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\0624_HW_Serial_ADValue.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\0624_HW_Serial_ADValue.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\0624_HW_Serial_ADValue.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_HW_Serial_ADValue\0624_HW_Serial_ADValue\obj\Debug\0624_HW_Serial_ADValue.pdb

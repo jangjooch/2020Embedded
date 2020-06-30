@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\bin\Debug\0623_ComboBox.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\bin\Debug\0623_ComboBox.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\bin\Debug\0623_ComboBox.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\0623_ComboBox.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\_0623_ComboBox.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\_0623_ComboBox.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\0623_ComboBox.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\0623_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\0623_ComboBox.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_ComboBox\0623_ComboBox\obj\Debug\0623_ComboBox.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0619_DicVer", "0619_DicVer\0619_DicVer.csproj", "{AD601230-A833-40A0-83CE-8E81F7329D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD601230-A833-40A0-83CE-8E81F7329D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD601230-A833-40A0-83CE-8E81F7329D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD601230-A833-40A0-83CE-8E81F7329D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD601230-A833-40A0-83CE-8E81F7329D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E7D5EC-8EAA-4631-8837-1F8213DBA6A1}
+	EndGlobalSection
+EndGlobal

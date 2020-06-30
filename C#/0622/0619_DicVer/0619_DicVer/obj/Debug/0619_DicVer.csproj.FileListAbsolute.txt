@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\bin\Debug\0619_DicVer.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\bin\Debug\0619_DicVer.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\bin\Debug\0619_DicVer.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\0619_DicVer.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\_0619_DicVer.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\_0619_DicVer.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\0619_DicVer.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\0619_DicVer.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\0619_DicVer.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0619_DicVer\0619_DicVer\obj\Debug\0619_DicVer.pdb

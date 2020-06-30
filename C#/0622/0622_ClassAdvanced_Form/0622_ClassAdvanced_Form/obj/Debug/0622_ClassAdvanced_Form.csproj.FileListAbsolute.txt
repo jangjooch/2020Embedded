@@ -1,0 +1,12 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\bin\Debug\0622_ClassAdvanced_Form.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\bin\Debug\0622_ClassAdvanced_Form.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\bin\Debug\0622_ClassAdvanced_Form.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\0622_ClassAdvanced_Form.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\_0622_ClassAdvanced_Form.FormMain.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\_0622_ClassAdvanced_Form.FormSecond.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\_0622_ClassAdvanced_Form.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\0622_ClassAdvanced_Form.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\0622_ClassAdvanced_Form.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\0622_ClassAdvanced_Form.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\0622_ClassAdvanced_Form.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_ClassAdvanced_Form\0622_ClassAdvanced_Form\obj\Debug\_0622_ClassAdvanced_Form.FormDialog.resources

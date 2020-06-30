@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\bin\Debug\0622_Method01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\bin\Debug\0622_Method01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\bin\Debug\0622_Method01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\0622_Method01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\_0622_Method01.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\_0622_Method01.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\0622_Method01.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\0622_Method01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\0622_Method01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0622\0622_Method01\0622_Method01\obj\Debug\0622_Method01.pdb

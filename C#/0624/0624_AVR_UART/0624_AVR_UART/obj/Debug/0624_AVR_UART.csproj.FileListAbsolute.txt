@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\bin\Debug\0624_AVR_UART.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\bin\Debug\0624_AVR_UART.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\bin\Debug\0624_AVR_UART.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\0624_AVR_UART.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\_0624_AVR_UART.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\_0624_AVR_UART.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\0624_AVR_UART.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\0624_AVR_UART.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\0624_AVR_UART.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0624\0624_AVR_UART\0624_AVR_UART\obj\Debug\0624_AVR_UART.pdb

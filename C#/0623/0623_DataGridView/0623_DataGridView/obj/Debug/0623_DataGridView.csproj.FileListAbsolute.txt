@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\bin\Debug\0623_DataGridView.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\bin\Debug\0623_DataGridView.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\bin\Debug\0623_DataGridView.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\0623_DataGridView.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\_0623_DataGridView.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\_0623_DataGridView.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\0623_DataGridView.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\0623_DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\0623_DataGridView.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0623\0623_DataGridView\0623_DataGridView\obj\Debug\0623_DataGridView.pdb

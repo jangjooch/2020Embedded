@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\bin\Debug\0626_HW_MP3_01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\bin\Debug\0626_HW_MP3_01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\bin\Debug\0626_HW_MP3_01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\0626_HW_MP3_01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\_0626_HW_MP3_01.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\_0626_HW_MP3_01.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\0626_HW_MP3_01.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\0626_HW_MP3_01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\0626_HW_MP3_01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0626\0626_HW_MP3_01\0626_HW_MP3_01\obj\Debug\0626_HW_MP3_01.pdb
