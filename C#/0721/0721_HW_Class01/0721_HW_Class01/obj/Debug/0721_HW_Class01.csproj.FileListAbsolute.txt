@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\bin\Debug\0721_HW_Class01.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\bin\Debug\0721_HW_Class01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\bin\Debug\0721_HW_Class01.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\0721_HW_Class01.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\_0721_HW_Class01.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\_0721_HW_Class01.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\0721_HW_Class01.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\0721_HW_Class01.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\0721_HW_Class01.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0721\0721_HW_Class01\0721_HW_Class01\obj\Debug\0721_HW_Class01.pdb

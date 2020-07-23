@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\bin\Debug\0706_SuperSonic04.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\bin\Debug\0706_SuperSonic04.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\bin\Debug\0706_SuperSonic04.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\0706_SuperSonic04.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\_0706_SuperSonic04.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\_0706_SuperSonic04.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\0706_SuperSonic04.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\0706_SuperSonic04.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\0706_SuperSonic04.exe
+C:\Users\301-PC-21\Desktop\Soucrce\C#\0702\0706_SuperSonic04\0706_SuperSonic04\obj\Debug\0706_SuperSonic04.pdb
