@@ -1,0 +1,10 @@
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\bin\Debug\0714_PWMReadTest.exe.config
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\bin\Debug\0714_PWMReadTest.exe
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\bin\Debug\0714_PWMReadTest.pdb
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\0714_PWMReadTest.csprojAssemblyReference.cache
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\_0714_PWMReadTest.Form1.resources
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\_0714_PWMReadTest.Properties.Resources.resources
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\0714_PWMReadTest.csproj.GenerateResource.cache
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\0714_PWMReadTest.csproj.CoreCompileInputs.cache
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\0714_PWMReadTest.exe
+C:\Users\301-PC-21\Desktop\Soucrce\RC\application\0714_PWMReadTest\0714_PWMReadTest\obj\Debug\0714_PWMReadTest.pdb
