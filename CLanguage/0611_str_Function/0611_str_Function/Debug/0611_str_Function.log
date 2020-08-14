@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0611_str_function\0611_str_function\소스.c(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0611_str_function\0611_str_function\소스.c(119): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\301-pc-21\desktop\soucrce\clanguage\0611_str_function\0611_str_function\소스.c(142): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  0611_str_Function.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0611_str_Function\Debug\0611_str_Function.exe
+  0611_str_Function.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0611_str_Function\Debug\0611_str_Function.pdb (Partial PDB)

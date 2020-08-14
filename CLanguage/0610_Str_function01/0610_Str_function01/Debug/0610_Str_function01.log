@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\301-pc-21\desktop\soucrce\clanguage\0610_str_function01\0610_str_function01\소스.c(65): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  0610_Str_function01.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0610_Str_function01\Debug\0610_Str_function01.exe
+  0610_Str_function01.vcxproj -> C:\Users\301-PC-21\Desktop\Soucrce\CLanguage\0610_Str_function01\Debug\0610_Str_function01.pdb (Partial PDB)
